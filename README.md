@@ -8,7 +8,7 @@
 
 **Senior Frontend Engineer (7+ years)** specializing in **React, Next.js, TypeScript, scalable frontend architectures, and AI-powered platforms.**
 
-I build production-grade systems used by **16,000+ learners across Africa**, blend frontend engineering with full-stack Python/Django, and architect fast, accessible, modern web experiences.
+I have built production-grade systems used by **16,000+ learners across Africa**, blended frontend engineering with full-stack Python/Django, and architect fast, accessible, modern web experiences.
 
 ---
 
