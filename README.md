@@ -61,7 +61,7 @@ I have built production-grade systems used by **16,000+ learners across Africa**
 - Secured **$10,000 AWS credits** through technical proposal  
 - Managed deployments and automated server tasks on Scaleway  
 
-**Tech:** React, Next.js, TypeScript, TailwindCSS, Vite PWA, shadcn, TanStack Query, Strapi
+**Tech:** React, Next.js, TypeScript, TailwindCSS, Vite PWA, shadcn, TanStack Query, Strapi, Zustand
 
 ---
 
